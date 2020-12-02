@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "D:\\VSCode\\python环境\\Python38-32\\python.exe",
+    "python.linting.pylintArgs": [ "----extension-pkg-whitelist=1xml" ]
+}

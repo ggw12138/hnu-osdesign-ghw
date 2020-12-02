@@ -1,0 +1,18 @@
+Python的数据类型包括
+数值类型(Number)
+整型，浮点型,复数类型(complex),布尔类型(bool)
+二进制：0b  八进制:0o  十六进制:0x
+字符串类型(Str)
+列表类型(List)
+元组类型(Tuple)
+字典类型(dictionary)
+python运算符
+算数运算符
++ - * / % ** //
+比较运算符
+> < !=
+逻辑运算符
+x and y :x,y有一个为False,逻辑表达式的值为False
+x、y有一个为True，逻辑表达式的是为True
+x值为True,逻辑表达式的值为False,x值为False，逻辑表达式的值为True
+分支结构  数据结构  函数结构
